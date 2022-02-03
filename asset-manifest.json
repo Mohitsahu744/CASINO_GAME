@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Paktolus_task/static/css/main.182ae977.css",
+    "main.js": "/Paktolus_task/static/js/main.b69157d8.js",
+    "static/media/avatar.png": "/Paktolus_task/static/media/avatar.a80bb3a4bccd74179fd2.png",
+    "static/media/casinobg.jpg": "/Paktolus_task/static/media/casinobg.2354a8da1f95c4aced7a.jpg",
+    "static/media/clubs.jpg": "/Paktolus_task/static/media/clubs.c88b914e9da07d4326f9.jpg",
+    "static/media/hearts.jpg": "/Paktolus_task/static/media/hearts.ab80fabaf327e7140922.jpg",
+    "static/media/spades.jpg": "/Paktolus_task/static/media/spades.18065c0bdc2d97a7aa18.jpg",
+    "static/media/diamond.jpg": "/Paktolus_task/static/media/diamond.56e4c82233658240443d.jpg",
+    "static/media/paktolus_logo.jpeg": "/Paktolus_task/static/media/paktolus_logo.7b6e5c677b1b3ff32076.jpeg",
+    "index.html": "/Paktolus_task/index.html",
+    "main.182ae977.css.map": "/Paktolus_task/static/css/main.182ae977.css.map",
+    "main.b69157d8.js.map": "/Paktolus_task/static/js/main.b69157d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.182ae977.css",
+    "static/js/main.b69157d8.js"
+  ]
+}
